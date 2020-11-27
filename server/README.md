@@ -17,4 +17,4 @@ Change Enviroment Variables in order to connect external API's
 Npm Install to install missing dependencies
 
 Nodemon start to run server
-Defaul port is :3002
+Default port is :3002
